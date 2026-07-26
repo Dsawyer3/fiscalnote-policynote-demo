@@ -6,7 +6,7 @@ A small Python tool that demonstrates the PolicyNote API by answering a real
 government-affairs question: **who are the most active sponsors on a fast-moving
 policy topic?**
 
-This demo focuses on AI companion chatbot regulation and minor safety — a genuinely
+This demo focuses on AI companion chatbot regulation and minor safety, a genuinely
 active multi-state trend in 2026 (Virginia, California, Tennessee, Illinois, and a
 federal CHAT Act / SAFE BOTs Act track are all represented in the results).
 
@@ -40,9 +40,9 @@ Top 10 most active sponsors on this topic:
 
 ## Positioning in a Customer Conversation
 
-A government-affairs professional doesn't just want a list of bills — they want to know which bills to worry about and who's driving them. This demo shows how raw legislative data becomes an actionable answer in a few lines of code: instead of manually scanning 116 bills across a dozen states, a customer gets an instant read on which legislators to watch and build relationships with on this issue.
+A government-affairs professional doesn't just want a list of bills, they want to know which bills to worry about and who's driving them. This demo shows how raw legislative data becomes an actionable answer in a few lines of code: instead of manually scanning 116 bills across a dozen states, a customer gets an instant read on which legislators to watch and build relationships with on this issue.
 
-The same pattern extends naturally to the Stakeholders endpoints (/v2/people/search, /v2/people/fetch) to enrich these names with party, chamber, and biography — a natural next step and a good example of how a single API surfaces value across multiple endpoint families (Legislation + Stakeholders), not just one.
+The same pattern extends naturally to the Stakeholders endpoints (/v2/people/search, /v2/people/fetch) to enrich these names with party, chamber, and biography, a natural next step and a good example of how a single API surfaces value across multiple endpoint families (Legislation + Stakeholders), not just one.
 
 ## Notes / What I'd Do With More Time
 
